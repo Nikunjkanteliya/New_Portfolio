@@ -142,7 +142,7 @@ export default function Hero() {
                 color="primary"
                 size="large"
                 component="a"
-                href="../../../public/Nikunj Kanteliya resume-1 (1).pdf"
+                href="/resume.pdf"
                 download
                 aria-label="Download Resume PDF"
               >
