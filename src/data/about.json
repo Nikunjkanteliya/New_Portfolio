@@ -1,0 +1,33 @@
+{
+  "story": "Just a curious human who turned ‘what if I code this?’ into a daily habit. Now I build web apps that usually work — and when they don’t, I fix them faster than you can say ‘bug report’.",
+  "skills": [
+    "TypeScript",
+    "React",
+    "MUI",
+    "Next",
+    "Tailwind",
+    "Redux Toolkit",
+    "Graph QL",
+    "Rest API",
+    "Firebase",
+    "GitLab"
+  ],
+  "timeline": [
+    {
+      "year": "2022",
+    "event": "Graduated in Engineering, turning curiosity into code."
+  },
+    {
+    "year": "2023",
+    "event": "Onboarded at Digikull as an Intern, mastering fundamentals through real-world builds."
+  },
+   {
+    "year": "2024",
+    "event": "Joined Optiphonex as a Jr. Web Developer, turning specs into performant UI."
+  },
+ {
+    "year": "2025",
+    "event": "Delivering scalable front‑end solutions at Techerudite, sprint after sprint."
+  }
+  ]
+}

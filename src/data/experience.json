@@ -1,0 +1,24 @@
+[
+  {
+    "company": "DigiKull",
+    "role": "Software developer intern",
+    "period": "2023",
+    "summary": "Collaborating with the frontend team to build responsive, user-friendly web interfaces using React and Tailwind. Developing modular, reusable components while maintaining a clean, scalable codebase aligned with best practices.",
+    "technologies": ["TypeScript", "MUI","Tailwind" , "GSAP" ]
+  },
+  {
+    "company": "OptiPhonix",
+    "role": "Jr. Web Developer",
+    "period": "2024",
+    "summary": "Built responsive, accessible React/Next.js interfaces with TypeScript, styling via MUI and Tailwind; integrated REST endpoints; and shipped reliably using GitLab CI/CD to AWS",
+    "technologies": ["React", "TypeScript", "MUI","Tailwind" , "GitLab","AWS"]
+  }
+  ,
+    {
+    "company": "Techerudite",
+    "role": "Front-end Developer",
+    "period": "present",
+    "summary": "Developing production‑grade Next.js front‑ends: TypeScript, MUI/Tailwind design systems, REST/GraphQL integrations, and containerized deployments orchestrated via GitLab to AWS.",
+    "technologies": ["Next","React", "TypeScript", "MUI","Tailwind" , "GitLab","AWS" ,"RestAPI" , "GraphQL"]
+  }
+]

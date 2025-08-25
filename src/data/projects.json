@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Netflix/AI",
+    "description": "Built a Netflix‑style streaming UI with React/Next.js and Tailwind, integrated TMDB for catalog data, and added a GPT‑powered search/assistant that generates personalized movie/series suggestions from prompts; authenticated with Firebase, managed state with Redux/Zustand, and deployed on Render.",
+    "link": "https://netflix-gpt-im5a.onrender.com/"
+  },
+  {
+    "title": "Sneaker Hub",
+    "description": "Developed a Sneaker Hub storefront with Next.js and React using TypeScript, designed responsive UIs with Tailwind.",
+    "link": "https://sneaker-hub-sair.onrender.com"
+  },
+  {
+    "title": "Geeko Landing Page",
+    "description": "Designed and developed the Gecko website landing page with React and Tailwind, featuring a high‑impact hero, value‑driven sections, responsive layouts, and optimized performance/SEO—built fast and deployed seamlessly",
+    "link": "https://geckorender.onrender.com/"
+  },
+    {
+    "title": "Weather App",
+    "description": "Built a worldwide weather app with React/Next.js and TypeScript that provides real‑time conditions, hourly/daily forecasts, and AQI for any location.",
+    "link": "https://weather-app-2tzl.onrender.com/"
+  },
+  {
+    "title": "Portfolio",
+    "description": "Responsive site built with React, TypeScript, MUI, and GSAP to showcase skills, projects, and achievements with a modern UI.",
+    "link": ""
+  }
+]

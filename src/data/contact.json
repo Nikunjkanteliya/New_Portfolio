@@ -1,0 +1,12 @@
+{
+  "heading": "Contact",
+"friendlyMessage": "Got an idea or project? Let’s chat! Whether it’s building something cool or geeking over chai, I’m all ears."
+
+,
+  "form": {
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitText": "Send"
+  }
+}

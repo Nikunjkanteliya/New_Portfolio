@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scene {
+  width: 260px;
+  height: 100px;
+  perspective: 1000px;
+}
+
+.scene .carousel.keen-slider {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  position: absolute;
+  transform: translateZ(-288px);
+  transform-style: preserve-3d;
+}
+
+.carousel__cell {
+  position: absolute;
+  width: 150px;
+  height: 60px;
+  padding: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .scene {
+    max-width: 260px;
+  }
+  .carousel__cell {
+    width: 130px;
+    height: 50px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .scene {
+    max-width: 220px;
+  }
+  .carousel__cell {
+    width: 110px;
+    height: 45px;
+  }
+}

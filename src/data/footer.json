@@ -1,0 +1,33 @@
+{
+  "name": "Nikunj Kanteliya",
+  "year": 2025,
+  "email": "kanteliyanikunj422@gmail.com",
+  "signoff": "Thanks for visiting — let's break things (and fix them better)!",
+  "socials": [
+    { "platform": "GitHub", "url": "https://github.com/Nikunjkanteliya" },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nikunj-kanteliya-043859209/"
+    }
+  ],
+  "tech": [
+    {
+      "prefix": "Built with",
+      "label": "React",
+      "url": "https://react.dev",
+      "kind": "react"
+    },
+    {
+      "prefix": "Styled with",
+      "label": "MUI",
+      "url": "https://mui.com",
+      "kind": "mui"
+    },
+    {
+      "prefix": "Deployed on",
+      "label": "Render",
+      "url": "https://render.com/",
+      "kind": "render"
+    }
+  ]
+}
