@@ -5,11 +5,9 @@ import about from '@/data/about.json'
 import { Paper, Typography } from "@mui/material";
 import CodeRoundedIcon from '@mui/icons-material/CodeRounded'
 import { SiMui } from "react-icons/si";
-import { FaDocker } from "react-icons/fa";
 import { FaGitlab } from "react-icons/fa6";
 import { GiMatterStates } from "react-icons/gi";
 import { FaReact } from "react-icons/fa";
-import { IoLogoNodejs } from "react-icons/io5";
 import { BiLogoMongodb } from "react-icons/bi";
 import { BiLogoPostgresql } from "react-icons/bi";
 import { RiSupabaseFill } from "react-icons/ri";
@@ -17,6 +15,9 @@ import { RiNextjsFill } from "react-icons/ri";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { SiRedux } from "react-icons/si";
 import { SiTypescript } from "react-icons/si";
+import { GrGraphQl } from "react-icons/gr";
+import { RiFirebaseLine } from "react-icons/ri";
+
 
 const data = about 
 
@@ -44,11 +45,11 @@ function skillIcon(name: string) {
   if (n.includes('postgresql')) return <BiLogoPostgresql />
   if (n.includes('supabase')) return <RiSupabaseFill />
   if (n.includes('next')) return <RiNextjsFill />
-  if (n.includes('express')) return <IoLogoNodejs />
+  if (n.includes('firebase')) return <RiFirebaseLine />
   if (n.includes('tailwind')) return <RiTailwindCssFill />
   if (n.includes('zustand')) return <GiMatterStates />
   if (n.includes('gitlab')) return <FaGitlab />
-  if (n.includes('docker')) return <FaDocker />
+  if (n.includes('graph ql')) return <GrGraphQl />
   if (n.includes('redux toolkit')) return <SiRedux />
   return <CodeRoundedIcon />
 }
